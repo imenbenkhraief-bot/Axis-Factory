@@ -170,7 +170,10 @@ On close
 
 Developed as part of the **Java Programming** module at **École Polytechnique de Sousse**, 2nd year preparatory cycle (ICT) — academic year **2025–2026**.
 
+---
+
 **📄 License**
 This project is for academic purposes only.
 
+---
 **Developer:** Imen Ben Khraief 
